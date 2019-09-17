@@ -12,6 +12,16 @@ export default new Router({
       component: Home
     },
     {
+      path: '/contactus',
+      name: 'Contactus',
+      component: () => import(/* webpackChunkName: "about" */ './views/Contactus.vue')
+    },
+    {
+      path: '/package',
+      name: 'Package',
+      component: () => import(/* webpackChunkName: "about" */ './views/Package.vue')
+    },
+    {
       path: '/about',
       name: 'about',
       // route level code-splitting
