@@ -16,7 +16,7 @@
     <div class="wrapper1">
 <div class="flex-container">
   <div><b>OVERVIEW</b></div>
-  <div><b>ITINERARY</b></div> 
+  <div><b>ITINERARY</b></div>
 </div>
 <h4>OVERVIEW</h4>
 <p> One of the shortest and the smartest ways to get familiarized with the cultural, historical heritage, spiritual and wildlife of South India is the Coastal Breeze tour package.  </p>
@@ -27,7 +27,7 @@
  <p><strong> Pondicherry (Arrival)</strong></p><br>
 </div>
 <p>Upon arrival at the Pondicherry railway station at 12:00pm, our tour representative will assist you the sightseeing places to be visited which include Beach, Scuba diving, Botanical Garden, Lighthouse & Museum.</p>
- 
+
  <div class="flex-container1">
  <div><b>DAY 02</b> </div>
  <p><strong> Ponidcherry-Madurai </strong></p><br>
@@ -72,7 +72,7 @@
 </div>
  </div>
     </div>
-    </div> 
+    </div>
     </div>
    </template>
 
