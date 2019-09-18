@@ -17,7 +17,7 @@
 <router-view/>
 
 <div id="footer">
-  <p> Copyright &copy;2019 All Rights Reserved.</p>
+  <h4> Copyright &copy;2019 All Rights Reserved.</h4>
 </div>
 </div>
 </template>

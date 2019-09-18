@@ -78,6 +78,10 @@ The major hotspots to visit include Prince of Wales Museum, Hanging Gardens, Juh
    </template>
 
 <style>
+
+.clear{
+ clear: both;
+}
 #content-left{
 float: left;
 margin-left:  auto;
