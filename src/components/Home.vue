@@ -1,7 +1,7 @@
   <template>
 <div>
   <div class="container">
-  <div class="wrapper">
+  <div class="wrapper">  
   <div class="row">
   <div class="col-3 col-s-3 menu">
     <ul>
@@ -27,7 +27,7 @@
 </div>
 </template>
 
-
+  
 <style>
 .container{
   width: 100%;
