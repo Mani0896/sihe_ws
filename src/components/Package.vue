@@ -5,22 +5,21 @@
             <img src="../assets/cb1.jpg" height="250px" width="300px">
         </div>
     <div id="content-right">
-<h1> Coastal Breeze Tour package</h1>
+<h1> <em> Coastal Breeze Tour package </em></h1>
 <b>Duration</b>: 07Nights/08Days<br>
 <b>Destination covered</b>: Chennai-ponidcherry-Madurai-kanyakumari-Thiruvananthapuram-Kozhikode-Mangalore-Madgaon-Mumbai.<br><br><br><br>
 <img src="../assets/button_book-now.png" height="40px" width="90px">
  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="../assets/button_enquiry.png" height="40px" width="90px">
 </div>
-<div class="container">
-    <div class="wrapper1">
+<div class="package">
 <div class="flex-container">
-  <div><b>OVERVIEW</b></div>
-  <div><b>ITINERARY</b></div>
+  <div><b> OVERVIEW </b></div>
+  <div><b> ITINERARY </b></div>
 </div>
-<h4>OVERVIEW</h4>
+<h4><em> OVERVIEW </em></h4>
 <p> One of the shortest and the smartest ways to get familiarized with the cultural, historical heritage, spiritual and wildlife of South India is the Coastal Breeze tour package.  </p>
-<h4>ITINERARY</h4>
+<h4><em> ITINERARY </em></h4>
 
 <div class="flex-container1">
  <div><b>DAY 01</b> </div>
@@ -73,7 +72,6 @@
  </div>
     </div>
     </div>
-    </div>
    </template>
 
 <style>
@@ -109,7 +107,7 @@ outline: #4CAF50 solid 0px;
   width: 150px;
   font-size: 15px;
 }
-.wrapper1{
+.package{
     width:750px;
     margin: 70px;
 }

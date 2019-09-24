@@ -7,23 +7,27 @@
     <ul>
      <li> <router-link to="/package"> Coastal Breeze</router-link> </li>
       <li><router-link to="/Package_vijayanagar">Vijayanagar Experience</router-link></li>
-      <li>Deccan Dilbaug</li>
-      <li>Eastern Seascape </li>
+      <li><router-link to="/Package_Deccan">Deccan Dilbaug</router-link></li>
+      <li><router-link to="/payment">Eastern Seascape </router-link></li>
     </ul>
   </div>
    <div class="col-6 col-s-9">
   <img src="../assets/train.jpg" height="250px" width="470px">
    </div>
    <div class="col-3 col-s-12">
-    <div class="aside">
-     <img src="../assets/trip.jpg" height="130px" width="180px">
+    <div class="aside"> <br>
+     <a href='https://www.wetravel.com/'> <img src="../assets/trip.jpg" height="140px" width="170px"> </a>
      <p> Book Your Trip Now! <br> www.WeTravel.com <br> Save 50% off when you book 4 nights or more.</p>
     </div>
     </div>
     </div>
     </div>
+<div class="container">
+<div class="wrapper">  
+ADFFFF
 </div>
 </div>
+  </div>
 </div>
 </template>
 
@@ -62,17 +66,17 @@
   padding: 8px;
   width: 175px;
   margin-bottom: 7px;
-  background-color: #d0d3d4;
+  background-color: #f2f2f2;
   color:;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
 .menu li:hover {
   background-color: #e33449;
-   color: #ffffff;
+   color: #f2f2f2;
 }
 .aside {
-  background-color: #f4f6f6 ;
+  background-color: #f2f2f2;
   padding: 5px;
   color: #17202a;
   text-align: center;

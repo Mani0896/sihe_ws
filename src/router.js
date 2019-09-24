@@ -27,9 +27,19 @@ export default new Router({
       component: () => import('./components/Package_vijayanagar.vue')
     },
     {
+      path: '/Package_Deccan',
+      name: 'Deccan Dilbaug',
+      component: () => import('./components/Package_Deccan.vue')
+    },
+    {
       path: '/about',
       name: 'about',
       component: () => import('./components/About.vue')
+    },
+    {
+      path: '/payment',
+      name: 'payment',
+      component: () => import('./components/payment.vue')
     }
   ]
 })

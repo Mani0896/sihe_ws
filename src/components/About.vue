@@ -42,7 +42,7 @@ text-align: justify;
    float: left;
   width: 400px;
   height: 310px;
-  background:#f4f6f6 ;
+  background:#f2f2f2;
   padding: 10px;
 }
 
@@ -51,7 +51,7 @@ text-align: justify;
    float: right;
   width: 400px;
   height: 310px;
-  background:#f4f6f6 ;
+  background:#f2f2f2;
   padding: 10px;
 }
 .container01{

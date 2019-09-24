@@ -14,7 +14,7 @@
       <strong>
      <router-link to="/package"> Coastal Breeze </router-link>
      <router-link to="/Package_vijayanagar"> Vijayanagar Experience </router-link>
-     <a href="#">Deccan Dilbaug</a>
+     <router-link to="/Package_Deccan">Deccan Dilbaug</router-link>
      <a href="#">Eastern Seascape</a>
       </strong>
       </div>
@@ -90,7 +90,8 @@ display: inline-block;
 
   .dropbtn {
   font-weight: bold;
-  padding: 0px;
+  border-radius: 10px;
+  padding: 2px;
   border: black 0px;
 }
 
@@ -101,6 +102,7 @@ display: inline-block;
 
 .dropdown-content {
   display: none;
+  border-radius: 10px;
   position: absolute;
   background-color:lightslategrey;
   min-width: 250px;
@@ -110,9 +112,9 @@ display: inline-block;
 .dropdown-content a {
   color:;
   padding: 12px 16px;
+  border-radius: 10px;
   text-decoration: none;
   display: block;
 }
-.dropdown:hover .dropdown-content {display: block;
-}
+.dropdown:hover .dropdown-content {display: block;}
 </style>

@@ -1,11 +1,11 @@
-<template>
+  <template>
     <div class="container">
     <div class="wrapper">
         <div id="content-left">
             <img src="../assets/ve.jpg" height="250px" width="300px">
         </div>
     <div id="content-right">
-<h1>Vijayanagar Experience </h1>
+<h1><em> Vijayanagar Experience </em></h1>
 <b>Duration</b>: 06Nights/07Days<br>
 <b>Destination covered</b>: Bengaluru-Mysore-Hassan-Shivamoga-Bellary-Belagavi-Bijapura-Pune-Mumbai.<br><br><br><br>
 <img src="../assets/button_book-now.png" height="40px" width="90px">
@@ -18,10 +18,11 @@
   <div><b>OVERVIEW</b></div>
   <div><b>ITINERARY</b></div>
 </div>
-<h4>OVERVIEW</h4>
+<h4><em> OVERVIEW </em></h4>
 <p> One of the most popular tourist places in South Western, Karnataka is a land of stunning natural beauty,incomparable traditions and modern culture. 
 Some of the most famous attractions in Karnataka include hill stations, beautiful gardens, scenic beaches, cascading waterfalls and historical monuments etc. Also included in the itinerary is the visit to Mumbai,the City of Dreams and capital of Maharashtra rubs its shoulders with some of world’s most developed cities.</p>
-<h4>ITINERARY</h4>
+
+<h4><em> ITINERARY </em></h4>
 
 <div class="flex-container1">
  <div><b>DAY 01</b> </div>
@@ -72,7 +73,6 @@ Some of the most famous attractions in Karnataka include hill stations, beautifu
 The major hotspots to visit include Prince of Wales Museum, Hanging Gardens, Juhu Beach, Gateway of India and Marine Drive etc. </p>
 </div>
  </div>
-    </div>
     </div>
     </div>
    </template>
